@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/marcosdtjunior/desafio-backend-03-dindin-t06.git"
+    "url": "git+https://github.com/mjarros/restful-api-exemplo.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/marcosdtjunior/desafio-backend-03-dindin-t06/issues"
+    "url": "https://github.com/mjarros/restful-api-exemplo/issues"
   },
-  "homepage": "https://github.com/marcosdtjunior/desafio-backend-03-dindin-t06#readme",
+  "homepage": "https://github.com/mjarros/restful-api-exemplo#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "cors": "^2.8.5",
