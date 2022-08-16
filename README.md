@@ -1,10 +1,8 @@
-![](https://i.imgur.com/xG74tOh.png)
+## RestFUL API - Registros Financeiros | Back-End
 
-## RestFUL API - Registros Financeiros | Back-End | Módulo 4 Aula 6
+Projeto desenvolvido no curso de Desenvolvimento de Software da [Cubos Academy](https://cubos.academy/), que teve como objetivo criar uma RESTful API em Node.JS para o registro de transacoes financeiras em Bando de Dados PostgreSQL. Estas transacoes podem ser enviadas de um endpoint do Front-End, por exemplo.
 
-:pencil2: Projeto proposto pela [Cubos Academy](https://cubos.academy/), que tem como objetivo criar uma RestFUL API para o registro de transacoes financeiras enviadas do Front-End em um Bando de Dados. No caso, foi utilizado um banco de dados SQL Postgres.
-
-A API inclui o CRUD de funcionalidades de transacoes e usuários, e foi refatorada utilizando os modulos knex (modelagem de dados), dotenv (para armazenar variáves de ambiente) e yup e yup-locales (para validar dados enviados pelos usuários).
+Esta API inclui o CRUD de funcionalidades de transacoes e usuários, e utiliza os modulos listados abaixo.
 
 :desktop_computer: Pacotes utilizados neste projeto:
 
@@ -29,4 +27,4 @@ npm run dev
 
 :link: Acessar Localmente na porta 3001.
 
-###### tags: `back-end` `módulo 4` `Node JS` `restful` `api`
+###### tags: `back-end` `Node JS` `restful` `api`
